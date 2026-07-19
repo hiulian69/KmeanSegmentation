@@ -1,0 +1,10 @@
+# raw Excel source (23 MB) — the notebook uses the converted csv.gz;
+# re-create it any time with `python data/get_data.py`
+data/Online_Retail.xlsx
+
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+venv/
+.env
